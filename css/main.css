@@ -20,6 +20,11 @@ h1 {
     background: #fff;
     line-height: 2.5em;
 }
+/*Add google font to H1 for main pages */
+h1.page-header{
+    font-family: 'Tangerine',serif;
+}
+
 
 main.wrapper {
     background-color: white;
